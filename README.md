@@ -8,7 +8,7 @@ My goal is to build a career in cybersecurity risk management, IT audit, GRC, he
 
 ## Core Cybersecurity Interests
 
-- Cyber Risk Management
+- Cyber Risk Management 
 - Governance, Risk, and Compliance (GRC)
 - IT Audit and Assurance
 - Healthcare Cybersecurity
